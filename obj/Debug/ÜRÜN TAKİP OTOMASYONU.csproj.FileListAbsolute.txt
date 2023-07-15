@@ -1,0 +1,11 @@
+C:\Users\BB\Documents\PROJE\ÜRÜN TAKİP OTOMASYONU\bin\Debug\ÜRÜN TAKİP OTOMASYONU.exe.config
+C:\Users\BB\Documents\PROJE\ÜRÜN TAKİP OTOMASYONU\bin\Debug\ÜRÜN TAKİP OTOMASYONU.exe
+C:\Users\BB\Documents\PROJE\ÜRÜN TAKİP OTOMASYONU\bin\Debug\ÜRÜN TAKİP OTOMASYONU.pdb
+C:\Users\BB\Documents\PROJE\ÜRÜN TAKİP OTOMASYONU\obj\Debug\ÜRÜN TAKİP OTOMASYONU.csproj.AssemblyReference.cache
+C:\Users\BB\Documents\PROJE\ÜRÜN TAKİP OTOMASYONU\obj\Debug\ÜRÜN TAKİP OTOMASYONU.csproj.SuggestedBindingRedirects.cache
+C:\Users\BB\Documents\PROJE\ÜRÜN TAKİP OTOMASYONU\obj\Debug\ÜRÜN_TAKİP_OTOMASYONU.Form1.resources
+C:\Users\BB\Documents\PROJE\ÜRÜN TAKİP OTOMASYONU\obj\Debug\ÜRÜN_TAKİP_OTOMASYONU.Properties.Resources.resources
+C:\Users\BB\Documents\PROJE\ÜRÜN TAKİP OTOMASYONU\obj\Debug\ÜRÜN TAKİP OTOMASYONU.csproj.GenerateResource.cache
+C:\Users\BB\Documents\PROJE\ÜRÜN TAKİP OTOMASYONU\obj\Debug\ÜRÜN TAKİP OTOMASYONU.csproj.CoreCompileInputs.cache
+C:\Users\BB\Documents\PROJE\ÜRÜN TAKİP OTOMASYONU\obj\Debug\ÜRÜN TAKİP OTOMASYONU.exe
+C:\Users\BB\Documents\PROJE\ÜRÜN TAKİP OTOMASYONU\obj\Debug\ÜRÜN TAKİP OTOMASYONU.pdb
